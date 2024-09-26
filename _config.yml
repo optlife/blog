@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    OPTLIFE
+  OPTLIFE:
       name:           OPTLIFE
       site:           https://optlife.github.io/blog
       avatar:         /assets/images/avatar1.jpg
