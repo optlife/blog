@@ -38,7 +38,10 @@
     <!-- Navbar -->
     <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="{{ site.baseurl }}/index.html"><strong>{{site.name}}</strong></a>
+        <a class="navbar-brand" href="{{ site.baseurl }}/index.html">
+            <div class="mb-2 d-flex align-items-center">       
+                <div class="col-md-4"><img alt="{{ site.name }}" src="{{site.baseurl}}/{{ site.logo }}" class="rounded-circle" height="40" width="40"></div>
+                <div class="col-md-0"></div><strong>{{site.name}}</strong></div></a>
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>

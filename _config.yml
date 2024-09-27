@@ -1,7 +1,7 @@
 # Site
-name: 'Optimized Life'
-description: 'The Optimized Life Blog is dedicated to personal development, introducing a variety of books and providing reviews to offer valuable information to its readers.'
-logo: 'assets/images/logo.png'
+name: '최적화된 인생'
+description: '최적화된 인생 블로그는 자기계발에 큰 관심과 열정을 가지고 다양한 도서를 소개하고 내용을 리뷰하여 독자분들에게 가치 있는 정보를 제공합니다.'
+logo: '/assets/images/avatar1.jpg'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/blog'
 disqus: 'demowebsite'
@@ -25,7 +25,7 @@ authors:
       name:           OPTLIFE
       site:           https://optlife.github.io/blog
       avatar:         /assets/images/avatar1.jpg
-      bio:            "The Optimized Life Blog is dedicated to personal development, introducing a variety of books and providing reviews to offer valuable information to its readers."
+      bio:            "최적화된 인생 블로그는 자기계발에 큰 관심과 열정을 가지고 다양한 도서를 소개하고 내용을 리뷰하여 독자분들에게 가치 있는 정보를 제공합니다."
       email:          ayntox@gmail.com
       twitter:        https://twitter.com/ayntox
  
