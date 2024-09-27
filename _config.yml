@@ -17,7 +17,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  
+
+locale: "ko-KR"
+
 authors:
   OPTLIFE:
       name:           OPTLIFE
