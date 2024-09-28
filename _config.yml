@@ -5,9 +5,8 @@ logo: '/assets/images/avatar1.jpg'
 favicon: 'assets/images/favicon.ico'
 url: "https://optlife.github.io"
 baseurl: '/blog'
-disqus: 'demowebsite'
+disqus: 'https-optlife-github-io-blog'
 email: 'ayntox@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
 permalink: /:title/
